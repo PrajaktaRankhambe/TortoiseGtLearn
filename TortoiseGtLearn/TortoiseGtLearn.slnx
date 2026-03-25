@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../New folder/CSharpTutorials/CSharpTutorials.csproj" />
+  <Project Path="../New folder/CSharpTutorialsTest/CSharpTutorialsTest.csproj" />
+  <Project Path="../New folder/NetLearning/NetLearning.csproj" />
+</Solution>
